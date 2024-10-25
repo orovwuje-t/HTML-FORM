@@ -1,0 +1,57 @@
+/*CSS File:skinhealth-form.css */
+
+body {
+    background-image: url("./hydration.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin: 250px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    padding: 10px;
+  }
+  
+  h1 {
+    text-align: center;
+    color: white;
+  }
+  h4 {
+    text-align: center;
+    color: white;
+  }
+  form {
+    background-color: rgba(210, 180, 140, 0.68);
+    border: 1px solid black;
+    padding: 100px;
+    margin-top: 20px;
+  }
+  
+  label {
+    display: inline;
+    margin-bottom: 20px;
+  }
+  
+  input,
+  select {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 8px;
+  }
+  
+  input[type="radio"] {
+    display: inline;
+    margin-right: 5px;
+    margin-bottom: 5px;
+  }
+  
+ 
+
+  .submit{
+    display:block;
+    background-color: black;
+    color: rgb(231, 21, 21);
+    padding: 15px;
+    width: 30px;
+
+  }

@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SkinHealth Club Form</title>
+    <link rel="stylesheet" href="skinhealth.css">
+</head>
+<body>
+    <h1>SkinHealth Club</h1>
+    <hr></hr>
+    <h4>Please fill the form below:</h4>
+    <div>
+        <form>
+            <div>
+            <label for="">Student Name</label> 
+            <input type="text">
+            <br></br>
+            </div>
+           
+            <div>
+                <label for="">Matric No.</label> 
+                <input type="text">
+                <br></br>
+                </div>
+                <div>
+                    <label for="">Course of Study</label> 
+                    <input type="text">
+                    <br></br>
+                    </div>
+                    <div>
+                        <label for="">Telegram No.</label> 
+                        <input type="number">
+                        <br></br>
+                        </div>
+                        <div>
+                            <label for="">Birth Date</label> 
+                            <input type="date">
+                            <br></br>
+                            </div>
+                            <div>
+                                <label for="">Email</label> 
+                                <input type="text">
+                                <br></br>
+                                </div>
+                                <div>
+                                    <label for="">Gender</label> 
+                                    <input type="radio">Male</input>
+                                    <input type="radio">Female</input>
+                                    <br></br>
+                                    </div>
+            
+                                        <div>
+                                            <label for="">Hall</label> 
+                                            <select>
+                                                <option>Select</option>
+                                                <option>Esther</option>
+                                                <option>Peter</option>
+                                                <option>Dorcas</option>
+                                                <option>Paul</option>
+                                                <option>Mary</option>
+                                                <option>Joseph</option>
+                                                <option>Lydia</option>
+                                                <option>John</option>
+                                                <option>Deborah</option>
+                                                <option>Daniel</option>
+                                                <option>PG</option>
+                                                <option>None</option>
+                                            </select>
+                                            <br></br>
+                                            </div> 
+                                            <div>
+                                                <label for="">Room No.</label> 
+                                                <input type="text">
+                                                <br></br>
+                                                </div>
+                                               
+                                                    <div>
+                                                        <label for="">Have you ever visited a dermatologist before?</label> 
+                                                        <input type="text">
+                                                        
+                                                        <br></br>
+                                                        </div>
+                                        <div>
+                                            <label for="">Why are you interested in joining?</label> 
+                                            <input type="text">
+                                            <br></br>
+                                            <label for="">What Skincare topics are interested in</label>
+                                            <input type="text">
+
+                                            <br></br>
+                                            <input type= "submit" value ="submit">
+                    
+                                            </div>
+
+                                           
+                                            
+                                                
+                                            
+                                            
+                                            
+
+        </form>
+    </div>
+
+    
+</body>
+</html>
